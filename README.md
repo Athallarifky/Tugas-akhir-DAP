@@ -1,2 +1,2 @@
 # Tugas-akhir-DAP
-Meruapakan web portofolio pribadi saya
+Merupakan web portofolio pribadi saya
